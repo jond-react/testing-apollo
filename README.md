@@ -1,2 +1,2 @@
-# testing-apollo
+# apollo-server
 Created with CodeSandbox
